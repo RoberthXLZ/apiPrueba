@@ -1,4 +1,6 @@
-[{
+{
+  'ecuador':
+  [{
   "id": 1,
   "nombre_proyecto": "Universidad Andrews",
   "tipo_proyecto": "Empresarial",
@@ -244,3 +246,4 @@
     }
   ]
 }]
+}
