@@ -1,5 +1,3 @@
-{
-  'ecuador':
   [{
   "id": 1,
   "nombre_proyecto": "Universidad Andrews",
@@ -246,4 +244,3 @@
     }
   ]
 }]
-}
